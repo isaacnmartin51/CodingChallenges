@@ -1,0 +1,15 @@
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\bin\Debug\net7.0\WcTool.exe
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\bin\Debug\net7.0\WcTool.deps.json
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\bin\Debug\net7.0\WcTool.runtimeconfig.json
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\bin\Debug\net7.0\WcTool.dll
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\bin\Debug\net7.0\WcTool.pdb
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\obj\Debug\net7.0\WcTool.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\obj\Debug\net7.0\WcTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\obj\Debug\net7.0\WcTool.AssemblyInfoInputs.cache
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\obj\Debug\net7.0\WcTool.AssemblyInfo.cs
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\obj\Debug\net7.0\WcTool.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\obj\Debug\net7.0\WcTool.dll
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\obj\Debug\net7.0\refint\WcTool.dll
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\obj\Debug\net7.0\WcTool.pdb
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\obj\Debug\net7.0\WcTool.genruntimeconfig.cache
+C:\Users\isaac\source\repos\CodingChallenges\CodingChallenge1\src\WcTool\obj\Debug\net7.0\ref\WcTool.dll
